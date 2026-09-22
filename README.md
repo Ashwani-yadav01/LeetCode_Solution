@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0048-rotate-image) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3525-find-x-value-of-array-ii](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3525-find-x-value-of-array-ii) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Dynamic Programming
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0048-rotate-image) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3525-find-x-value-of-array-ii](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3498-reverse-degree-of-a-string) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
