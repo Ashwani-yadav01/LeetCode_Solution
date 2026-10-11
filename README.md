@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3525-find-x-value-of-array-ii](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0301-remove-invalid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
