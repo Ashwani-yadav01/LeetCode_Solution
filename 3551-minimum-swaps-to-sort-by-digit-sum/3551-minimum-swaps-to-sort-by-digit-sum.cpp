@@ -1,39 +1,61 @@
 class Solution {
 public:
-    int digitSum(int n) {
+
+    int getDigitSum(int num) {
         int sum = 0;
-        while (n > 0) {
-            sum += n % 10;
-            n /= 10;
+
+        while(num > 0) {
+            sum += (num % 10);
+            num /= 10;
         }
+
         return sum;
     }
+
     int minSwaps(vector<int>& nums) {
         int n = nums.size();
-        vector<pair<int, pair<int, int>>> vec;
-        for (int i = 0; i < nums.size(); i++) {
-            vec.push_back({digitSum(nums[i]), {nums[i], i}});
-        }
 
-        sort(vec.begin(), vec.end());
-        int swaps = 0;
-        vector<bool> vis(n, false);
-        for (int i = 0; i < n; i++) {
-            if (vis[i] || vec[i].second.second == i)
-                continue;
+        vector<int> afterSorted(nums);
 
-            int cycle = 0;
-            int j = i;
+        auto lambda = [&](int num1, int num2) {
+            int num1DigitSum = getDigitSum(num1); 
+            int num2DigitSum = getDigitSum(num2);
 
-            while (!vis[j]) {
-                vis[j] = true;
-                j = vec[j].second.second;
-                cycle++;
+            if(num1DigitSum != num2DigitSum) {
+                return num1DigitSum < num2DigitSum;
             }
 
-            swaps += cycle - 1;
+            return num1 < num2;
+        };
+
+        sort(begin(afterSorted), end(afterSorted), lambda);
+
+        unordered_map<int, int> valToIdx;
+        for(int i = 0; i < n; i++) { 
+            valToIdx[nums[i]] = i;
         }
 
-        return swaps;
+        
+        int swapCount = 0;
+        for(int i = 0; i < n; i++) { 
+            int expectedVal = afterSorted[i];
+            int currVal     = nums[i];
+
+            if(expectedVal == currVal) continue;
+
+            int idx = valToIdx[expectedVal];
+
+            nums[i] = expectedVal;
+            nums[idx] = currVal;
+
+            valToIdx[expectedVal] = i;
+            valToIdx[currVal] = idx;
+
+            swapCount++;
+        }
+
+        return swapCount;
+
+
     }
 };
