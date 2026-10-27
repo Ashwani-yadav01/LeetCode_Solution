@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0239-sliding-window-maximum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0207-course-schedule) |
 | [0301-remove-invalid-parentheses](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0301-remove-invalid-parentheses) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1254-number-of-closed-islands](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Enumeration
@@ -230,12 +233,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0207-course-schedule) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1254-number-of-closed-islands](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0207-course-schedule) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
@@ -244,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
