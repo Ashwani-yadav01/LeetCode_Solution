@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0032-longest-valid-parentheses) |
+| [0542-01-matrix](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0048-rotate-image) |
 | [0239-sliding-window-maximum](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0542-01-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0542-01-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0207-course-schedule) |
 | [0301-remove-invalid-parentheses](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0301-remove-invalid-parentheses) |
+| [0542-01-matrix](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1254-number-of-closed-islands](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
