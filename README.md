@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0133-clone-graph) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0207-course-schedule) |
 | [0301-remove-invalid-parentheses](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0542-01-matrix) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0207-course-schedule) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1254-number-of-closed-islands](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1254-number-of-closed-islands) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0207-course-schedule) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
