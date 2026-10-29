@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3525-find-x-value-of-array-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3498-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Stack
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Queue
 |  |
 | ------- |
@@ -207,16 +211,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -247,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1254-number-of-closed-islands](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
 |  |
 | ------- |
