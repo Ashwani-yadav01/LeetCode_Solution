@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0048-rotate-image) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0048-rotate-image) |
 | [0239-sliding-window-maximum](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0542-01-matrix](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0542-01-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
