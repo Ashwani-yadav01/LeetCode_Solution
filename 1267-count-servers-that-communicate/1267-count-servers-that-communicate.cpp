@@ -5,40 +5,29 @@ public:
         int m = grid.size();
         int n = grid[0].size();
 
-        set<pair<int, int>> st;
+        vector<int> row(m, 0);
+        vector<int> col(n, 0);
 
         for (int i = 0; i < m; i++) {
-            bool flag = false;
-            pair<int, int> first;
-
             for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 1 && flag == false) {
-                    flag = true;
-                    first = {i, j};
-                }
-                else if (grid[i][j] == 1) {
-                    st.insert(first);
-                    st.insert({i, j});
+                if (grid[i][j] == 1) {
+                    row[i]++;
+                    col[j]++;
                 }
             }
         }
 
-        for (int i = 0; i < n; i++) {
-            bool flag = false;
-            pair<int, int> first;
+        int count = 0;
 
-            for (int j = 0; j < m; j++) {
-                if (grid[j][i] == 1 && flag == false) {
-                    flag = true;
-                    first = {j, i};
-                }
-                else if (grid[j][i] == 1) {
-                    st.insert(first);
-                    st.insert({j, i});
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == 1 &&
+                    (row[i] > 1 || col[j] > 1)) {
+                    count++;
                 }
             }
         }
 
-        return st.size();
+        return count;
     }
 };
