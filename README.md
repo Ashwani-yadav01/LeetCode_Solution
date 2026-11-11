@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3525-find-x-value-of-array-ii](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3525-find-x-value-of-array-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3886-sum-of-sortable-integers](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3886-sum-of-sortable-integers) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Dynamic Programming
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
 | ------- |
