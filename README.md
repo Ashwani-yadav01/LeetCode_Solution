@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3886-sum-of-sortable-integers) |
+| [3934-smallest-unique-subarray](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,12 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3934-smallest-unique-subarray](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3934-smallest-unique-subarray](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -350,4 +353,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Ashwani-yadav01/LeetCode_Solution/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
